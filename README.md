@@ -1,6 +1,6 @@
 Certainly! Here's the complete README file for your Assembler project in the Nand to Tetris course:
 
-```markdown
+
 # Assembler for Nand to Tetris Course
 
 ## Description
@@ -17,11 +17,6 @@ This is an assembler program created as part of the Nand to Tetris course, which
 2. Compile the assembler source code if necessary.
 3. Create an assembly language source file with a `.asm` extension.
 4. Run the assembler, specifying the input assembly file as an argument.
-
-   Example:
-   ```bash
-   ./assembler my_program.asm
-   ```
 
 5. The assembler will generate an output file with a `.hack` extension, containing the binary machine code.
 
