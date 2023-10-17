@@ -1,4 +1,3 @@
-Certainly! Here's the complete README file for your Assembler project in the Nand to Tetris course:
 
 
 # Assembler for Nand to Tetris Course
